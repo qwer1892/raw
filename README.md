@@ -1,5 +1,3 @@
- Gemini said
-
 Berikut adalah daftar data dan dokumen yang harus diminta, diurutkan dari yang paling mendesak untuk keperluan administrasi dan penggajian:
 
     NIK (Nomor Induk Kependudukan) / KTP: Data paling utama untuk memverifikasi identitas asli pelamar dan dasar pelaporan pajak serta asuransi.
